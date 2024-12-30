@@ -1,0 +1,10 @@
+flask 
+flask_cors 
+boto3
+numpy
+scikit-learn
+pillow
+torch
+torchvision
+torchaudio
+zappa
