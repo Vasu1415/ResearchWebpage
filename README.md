@@ -1,4 +1,4 @@
-# CMSC472-DL-Playlist-Generator
+# Research WebPage
 1) Create your own virtual environment using the command `python -m venv {virtual_environment_name}`.
 2) Activate the environment using the command `source virtual_environment_name/bin/activate`
 3) Navigate to the backend folder and run `python m pip install - r requirements.txt` to install the necessary dependencies
