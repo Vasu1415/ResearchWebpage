@@ -22,7 +22,7 @@ table = dynamodb.Table("Feedback")
 
 # Initialize Flask app
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["http://127.0.0.1:5173", "http://localhost:5173"]}})
+CORS(app, resources={r"/*": {"origins": ["http://127.0.0.1:5173", "http://localhost:5173", "https://research-webpage-roan.vercel.app/"]}})
 
 # Initialize the Recommender
 recommender = Recommender()
