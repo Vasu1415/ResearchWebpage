@@ -53,7 +53,7 @@ npx run dev
 ### **Backend**
 - This side of the project relies heavily on AWS services for data storage and retrieval.
 - **Data Storage:**
-  - `AWS S3`: Stores two primary files:
+  - `AWS S3`: Stores our entire spectrogram and audio data. However, the only files that are of importance are:
     1. `embeddings.npy`: Precomputed embeddings for all spectrograms in the dataset to enable quick recommendations.
     2. `mappings.json`: Contains two mappings:
        - `genre-to-audio`: Maps genres to their corresponding audio files.
