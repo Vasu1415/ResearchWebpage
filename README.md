@@ -36,7 +36,7 @@ npm install
 ```
 
 ### 6. Run Frontend Server
-Go to the root directory of the project and run:
+Go to the root frontend directory of the project and run:
 ```bash
 npx run dev
 ```
