@@ -94,8 +94,4 @@ The backend is configured to run on the AWS Lambda free tier using the `zappa` l
    - Implement the **Team Members** section (optional).
 3. **Code Tweaks:**
    - Perform minor adjustments to make the deployed frontend and backend listen to each other.
-   - 
 ---
-
-## How to Contribute
-Feel free to fork this repository and open a pull request with any suggestions or improvements! 😊
